@@ -1,3 +1,7 @@
 {
-  "players": []
+  "players": [
+    {
+      "name": "AV"
+    }
+  ]
 }
